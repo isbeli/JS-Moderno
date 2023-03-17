@@ -1,4 +1,4 @@
-/* //Inicializar uma variável com um valor
+//Inicializar uma variável com um valor
 var produto = "Monitor de 24 pulgadas";
     console.log(producto);
 
@@ -41,4 +41,3 @@ var nome_produto;
 
 //  PascalCase ex: ProdutoBranco, // Ele é usado apenas para definição de CLASSE
 var NomeProduto; 
- */
