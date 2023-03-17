@@ -1,4 +1,4 @@
-let produto = 'Tablet';
+/* let produto = 'Tablet';
 
 produto = "Monitor";
 
@@ -13,3 +13,4 @@ let precio;
 precio = 800;
 
 console.log(precio);
+ */
